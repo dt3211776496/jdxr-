@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/","dest": "http://116.205.165.191/jdxr"}
+      {"src": "/": "http://116.205.165.191/jdxr"}
     ]
 }
