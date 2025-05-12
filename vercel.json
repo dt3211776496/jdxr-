@@ -1,6 +1,5 @@
 {
-    "version": 2,
-    "routes": [
-      {"src": "/": "http://116.205.165.191/jdxr"}
-    ]
+  "rewrites": [
+    { "source": "/", "destination": "http://116.205.165.191/jdxr" }
+  ]
 }
